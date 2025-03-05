@@ -60,6 +60,7 @@ class InstaFollower:
         # #     time.sleep(2)
 
 
+
     def follow(self):
         # Check and update the (CSS) Selector for the "Follow" buttons as required.
         time.sleep(5)
